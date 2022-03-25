@@ -1,6 +1,6 @@
 # FluidSimulation
 
-![Fluid Simulation](docs/fluid.mp4)
+https://user-images.githubusercontent.com/72556403/160213079-3978c050-bb7e-4152-8a88-d0d7cd4923ff.mp4
 
 2D fluid simulation using FLIP and PIC, implemented in C++ with [NGL](https://github.com/NCCA/NGL).
 
