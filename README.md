@@ -17,7 +17,6 @@ To build the project we use cmake, ensure the following libraries are installed
 - Eigen
 
 ```
-cd ../FluidSimulationGUI
 mkdir build
 cd build
 cmake ..
