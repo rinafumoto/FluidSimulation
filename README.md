@@ -43,7 +43,7 @@ User can change the simulation settings via GUI as follows:
 
 ## Implementation Details
 
-Background research, basic algorithms and implementation for this project can be found in my [CGIT Techniques Report](docs/CGI_Techniques_Report.pdf). The details of the implementation are described below. The equations mentioned in the descriptions are referred from the report.
+Background research, basic algorithms and implementation for this project can be found in my [Report](docs/FluidSimulation.pdf). The details of the implementation are described below. The equations mentioned in the descriptions are referred from the report.
 
 ### Class Diagram
 
